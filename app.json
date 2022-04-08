@@ -1,15 +1,15 @@
 {
-    "name": "Abu_ser",
-    "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu.",
+    "name": "𝙍𝘼𝙃𝙀𝙀𝙎_ser",
+    "description": "𝙍𝘼𝙃𝙀𝙀𝙎 is the Modified Version of WhatsAsena, Made By @Afx-𝙍𝘼𝙃𝙀𝙀𝙎.",
     "logo": "https://i.imgur.com/nLUMShe.jpg",
-    "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "ser", "bot", "ai"],
-    "repository": "https://github.com/Afx-Abu/Abu_ser",
-    "website":   "https://github.com/Afx-Abu/Abu_ser",
-    "success_url": "https://github.com/Afx-Abu/Abu_ser",
+    "keywords": ["whatsapp", "userbot", "𝙍𝘼𝙃𝙀𝙀𝙎", "WhatsAsena", "ser", "bot", "ai"],
+    "repository": "https://github.com/Afx-𝙍𝘼𝙃𝙀𝙀𝙎/𝙍𝘼𝙃𝙀𝙀𝙎_ser",
+    "website":   "https://github.com/Afx-𝙍𝘼𝙃𝙀𝙀𝙎/𝙍𝘼𝙃𝙀𝙀𝙎_ser",
+    "success_url": "https://github.com/Afx-𝙍𝘼𝙃𝙀𝙀𝙎/𝙍𝘼𝙃𝙀𝙀𝙎_ser",
     "stack": "container",
     "env": {
-        "ABU_QR_CODE": {
-            "description": "Type the code when you got by scanning Abu qr through WhatsApp.",
+        "𝙍𝘼𝙃𝙀𝙀𝙎_QR_CODE": {
+            "description": "Type the code when you got by scanning 𝙍𝘼𝙃𝙀𝙀𝙎 qr through WhatsApp.",
             "required": true
         },
         "SUDO": {
@@ -34,7 +34,7 @@
         "FAKE_PREVIEW": {
             "description": "Fake Web Preview.. (*Example: Head\nBody\nLink\nmediaType[2 or 3]\nthumbnailUrl)",
             "required": false,
-            "value": "ᴀʙᴜ sᴇʀ\nwhile ( ! (succeed = try () ) );,l\nhttps://www.instagram.com/p/jasil_xo/?utm_medium=copy_link\n2\nhttps://i.imgur.com/40cQtSL.jpeg"
+            "value": "𝙍𝘼𝙃𝙀𝙀𝙎\nwhile ( ! (succeed = try () ) );,l\nhttps://www.instagram.com/p/jasil_xo/?utm_medium=copy_link\n2\nhttps://i.imgur.com/40cQtSL.jpeg"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -49,12 +49,12 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "❀ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ ᴀʙᴜ sᴇʀ࿐ (change this)"
+            "value": "❀ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ 𝙍𝘼𝙃𝙀𝙀𝙎࿐ (change this)"
         },
         "NAME_STYLE": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "𝙰𝙱𝚄"
+            "value": "𝙍𝘼𝙃𝙀𝙀𝙎"
         },
                 "ALIVEBUTTON": {
             "description": "Set the alive message two name",
@@ -69,12 +69,12 @@
         "INSTA_LINK": {
             "description": "Insta ID",
             "required": true,
-            "value": "https://instagram.com/_.lino_ox (change this)"
+            "value": "https://instagram.com/_rahees._. 4 (change this)"
         },
         "GROUP_LINK": {
             "description": "Group Link",
             "required": true,
-            "value": "https://chat.whatsapp.com/DNP9Fd1eWrjKz2DalRI2CX"
+            "value": ""
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
@@ -118,7 +118,7 @@
         "AUDIO_CAPTION": {
             "description": "Audio forward Name",
             "required": false,
-            "value": "✰http://ī.am/ꪶ͢ᴀʙᴜ sᴇʀͤꫂ⁩✰ (change this)"
+            "value": "✰http://ī.am/ꪶ͢𝙍𝘼𝙃𝙀𝙀𝙎ͤꫂ⁩✰ (change this)"
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION ",
@@ -141,7 +141,7 @@
             "value": "^[.!;]"
         },
         "CHAT_BOT": {
-            "description": "Turn your account into a chatbot! .abuser on/off",
+            "description": "Turn your account into a chatbot! .𝙍𝘼𝙃𝙀𝙀𝙎ser on/off",
             "required": true,
             "value": "false"
         },
@@ -182,7 +182,7 @@
         "CMD_LIST": {
             "description": "You can change Command list emojis like: help/❤️/😅/🍃/💌.)",
             "required": true,
-            "value": "❀ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ ᴀʙᴜ sᴇʀ࿐/💙/🌟/🥀/🐾 (change this)"
+            "value": "❀ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ 𝙍𝘼𝙃𝙀𝙀𝙎࿐/💙/🌟/🥀/🐾 (change this)"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
@@ -207,10 +207,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": true,
-            "value": "❀ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ ᴀʙᴜ sᴇʀ࿐ (change this)"
+            "value": "❀ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ 𝙍𝘼𝙃𝙀𝙀𝙎࿐ (change this)"
         },
         "WORK_TYPE": {
-            "description": "Abu Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "𝙍𝘼𝙃𝙀𝙀𝙎 Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -226,17 +226,17 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "ABU (change this)"
+            "value": "𝙍𝘼𝙃𝙀𝙀𝙎 (change this)"
         },
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "917025994178 (change this)"
+            "value": "917994206751 (change this)"
         },
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "917025994178 (change this)"
+            "value": "917994206751 (change this)"
         },
         "DEPLOYER": {
             "description": "enter your name here",
@@ -249,7 +249,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n╭──────────────────\n│〄 ʜᴇʏ ᴜѕᴇʀ ___________ 〄 \n│〄 ʙᴏᴛ ɴᴀᴍᴇ : ᴀʙᴜ sᴇʀ \n│〄 ᴅᴇᴠᴇʟᴏᴘᴇʀ : ᴀʙᴜ sᴇʀ\n│〄 ᴠᴇʀѕɪᴏɴ       : 𝟹.𝟶.𝟶\n│〄 ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪѕʜ \n│〄 ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│〄 ᴄʜᴀᴛ ʙᴏᴛ          : @ᴡʜᴛsᴀᴘᴘ\n│          \n│  \n│     \n│    \n│      ᴄʀᴇᴀᴛᴇᴅ  ʙʏ  ᴀʙᴜ sᴇʀ\n╰───────────────────\n╭───────────────────\n│Hey 💬 help message type \n│.menu .help .list 💬\n│👾──────👾──────👾\n╰───────────────────"
+            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n╭──────────────────\n│〄 ʜᴇʏ ᴜѕᴇʀ ___________ 〄 \n│〄 ʙᴏᴛ ɴᴀᴍᴇ : ࿑𝐌𝐀𝐆𝐈𝐂𝐈𝐀𝐍❥࿑⁩ \n│〄 ᴅᴇᴠᴇʟᴏᴘᴇʀ : 𝙍𝘼𝙃𝙀𝙀𝙎\n│〄 ᴠᴇʀѕɪᴏɴ       : 𝟹.𝟶.𝟶\n│〄 ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪѕʜ \n│〄 ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│〄 ᴄʜᴀᴛ ʙᴏᴛ          : @ᴡʜᴛsᴀᴘᴘ\n│          \n│  \n│     \n│    \n│      ᴄʀᴇᴀᴛᴇᴅ  ʙʏ  𝙍𝘼𝙃𝙀𝙀𝙎\n╰───────────────────\n╭───────────────────\n│Hey 💬 help message type \n│.menu .help .list 💬\n│👾──────👾──────👾\n╰───────────────────"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
